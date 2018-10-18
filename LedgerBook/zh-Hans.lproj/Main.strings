@@ -1,0 +1,45 @@
+
+/* Class = "UITabBarItem"; title = "扫一扫"; ObjectID = "Aku-vl-rif"; */
+"Aku-vl-rif.title" = "扫一扫";
+
+/* Class = "UILabel"; text = "金额："; ObjectID = "BRU-aP-kUF"; */
+"BRU-aP-kUF.text" = "金额：";
+
+/* Class = "UIButton"; normalTitle = "完成"; ObjectID = "Tek-oY-XoX"; */
+"Tek-oY-XoX.normalTitle" = "完成";
+
+/* Class = "UITabBarItem"; title = "报表"; ObjectID = "WYA-PP-m8n"; */
+"WYA-PP-m8n.title" = "报表";
+
+/* Class = "UIBarButtonItem"; title = "确定"; ObjectID = "ZfG-BI-OHi"; */
+"ZfG-BI-OHi.title" = "确定";
+
+/* Class = "UITabBarItem"; title = "明细"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "明细";
+
+/* Class = "UITabBarItem"; title = "添加"; ObjectID = "b7F-0X-XdG"; */
+"b7F-0X-XdG.title" = "添加";
+
+/* Class = "UILabel"; text = "扫一扫"; ObjectID = "dpH-3I-a2R"; */
+"dpH-3I-a2R.text" = "扫一扫";
+
+/* Class = "UISegmentedControl"; hdb-2U-X6R.segmentTitles[0] = "收入"; ObjectID = "hdb-2U-X6R"; */
+"hdb-2U-X6R.segmentTitles[0]" = "收入";
+
+/* Class = "UISegmentedControl"; hdb-2U-X6R.segmentTitles[1] = "支出"; ObjectID = "hdb-2U-X6R"; */
+"hdb-2U-X6R.segmentTitles[1]" = "支出";
+
+/* Class = "UIButton"; normalTitle = "开始扫描"; ObjectID = "mBe-Pz-XdT"; */
+"mBe-Pz-XdT.normalTitle" = "开始扫描";
+
+/* Class = "UILabel"; text = "备注："; ObjectID = "vpV-Dg-VUz"; */
+"vpV-Dg-VUz.text" = "备注：";
+
+/* Class = "UISegmentedControl"; wuh-VZ-0q6.segmentTitles[0] = "收入"; ObjectID = "wuh-VZ-0q6"; */
+"wuh-VZ-0q6.segmentTitles[0]" = "收入";
+
+/* Class = "UISegmentedControl"; wuh-VZ-0q6.segmentTitles[1] = "支出"; ObjectID = "wuh-VZ-0q6"; */
+"wuh-VZ-0q6.segmentTitles[1]" = "支出";
+
+/* Class = "UILabel"; text = "种类："; ObjectID = "yB3-c0-hac"; */
+"yB3-c0-hac.text" = "种类：";
